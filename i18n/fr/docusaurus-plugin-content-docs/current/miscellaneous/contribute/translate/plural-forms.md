@@ -24,13 +24,13 @@ Pour mieux comprendre, établissons un petit parallèle entre l'anglais et le po
 
       La version anglaise :                                                 Les équivalents polonais :
     
-      1. forme - It takes one hour.                                     1. forme - Zajmuje to godzinę.
-      2. forme - It takes two hours.                                    2. forme - Zajmuje to dwie godziny.
-      3. forme - It takes five hours.                                   3. forme - Zajmuje to pięć godzin.
+      1. form — It takes one hour.                                     1. form — Zajmuje to godzinę.
+      2. form — It takes two hours.                                    2. form — Zajmuje to dwie godziny.
+      3. form — It takes five hours.                                   3. form — Zajmuje to pięć godzin.
 
 Maintenant c'est clair que le polonais *'godzinę'* (heure) a trois formes différentes, alors que le mot anglais ne change de forme avec des nombres donnés que deux fois.
 
-Sans parler du polonais, il existe encore de nombreuses autres langues qui ont trois formes plurielles et plus, telles que le russe, le serbe, le slovaque, le tchèque, etc. Mais tous n'obéissent pas à la même règle. C'est pourquoi c'est si important de savoir combien de formes plurielles votre langue contient et comment vous pouvez les appliquer.
+Sans parler du polonais, il existe encore de nombreuses autres langues qui ont trois formes plurielles et plus, telles que le russe, le serbe, le slovaque, le tchèque, etc. Mais tous n'obéissent pas à la même règle. That's why it's so important to know how many plurals your language has, and how to use them correctly.
 
 ## Où peut-on apprendre plus sur le nombre de formes plurielles ? {#where-to-learn}
 
@@ -92,7 +92,7 @@ Soyez attentifs pendant la traduction de ces chaînes et quand vous les approuve
 
 ### 4. Les chaînes avec des modèles séparés par le signe de la barre verticale {#4type}
 
-Il s'agit du type de chaînes AdGuard le plus compliqué qui est principalement utilisé dans le projet `AdGuard Websites`.
+This is the most complicated type of AdGuard strings which is mostly used in the `AdGuard Websites` project.
 
 Pay close attention to a vertical bar sign between the sentences and **%count%** placeholders in original phrases — this will help you identify phrases where translations require the use of plural forms.
 

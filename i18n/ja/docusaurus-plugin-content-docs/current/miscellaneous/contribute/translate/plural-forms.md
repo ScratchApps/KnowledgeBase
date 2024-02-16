@@ -24,13 +24,13 @@ Let’s take a look at this picture. ここでは、前に立つと語形が決�
 
       英語の場合:                                                 ポーランド語の場合:
     
-      1. It takes one hour.                                     1. Zajmuje to godzinę.
-      2. It takes two hours.                                    2. Zajmuje to dwie godziny.
-      3. It takes five hours.                                   3. Zajmuje to pięć godzin.
+      1. form — It takes one hour.                                     1. form — Zajmuje to godzinę.
+      2. form — It takes two hours.                                    2. form — Zajmuje to dwie godziny.
+      3. form — It takes five hours.                                   3. form — Zajmuje to pięć godzin.
 
 さて、ポーランド語の *'godzinę'* (「時間」) には3種類の形があるのに対し、英語では単語が形を変えるのは2回だけであることがわかります。
 
-ポーランド語を除けば、ロシア語、セルビア語、スロバキア語、チェコ語など、3つの複数形を持つ言語やそれ以上の複数形を持つ言語がたくさんあります。 しかも、複数形に対する規則も様々です。 だからこそ、特定の言語にはいくつの複数形があり、それをどのように応用すべきかを知ることはとても大切なことなのです。
+ポーランド語を除けば、ロシア語、セルビア語、スロバキア語、チェコ語など、3つの複数形を持つ言語やそれ以上の複数形を持つ言語がたくさんあります。 しかも、複数形に対する規則も様々です。 That's why it's so important to know how many plurals your language has, and how to use them correctly.
 
 ## 複数形がいくつあるのかは、どこで確認できますか？ {#where-to-learn}
 
@@ -92,7 +92,7 @@ Let’s take a look at this picture. ここでは、前に立つと語形が決�
 
 ### 4. 縦棒記号で区切られた文字列 {#4type}
 
-これは最も複雑な種類のAdGuard文字列で、主に`AdGuard Websites`プロジェクトで使用されています。
+This is the most complicated type of AdGuard strings which is mostly used in the `AdGuard Websites` project.
 
 Pay close attention to a vertical bar sign between the sentences and **%count%** placeholders in original phrases — this will help you identify phrases where translations require the use of plural forms.
 

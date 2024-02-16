@@ -24,13 +24,13 @@ sidebar_position: 4
 
       Английская версия:                                                 Польские эквиваленты:
     
-      1. форма — It takes one hour.                                     1. форма — Zajmuje to godzinę.
-      2. форма — It takes two hours.                                    2. форма — Zajmuje to dwie godziny.
-      3. форма — It takes five hours.                                   3. форма — Zajmuje to pięć godzin.
+      1. form — It takes one hour.                                     1. form — Zajmuje to godzinę.
+      2. form — It takes two hours.                                    2. form — Zajmuje to dwie godziny.
+      3. form — It takes five hours.                                   3. form — Zajmuje to pięć godzin.
 
 Польское *'godzinę'* (час) имеет три разные формы, английское слово с теми же числительными склоняется только по двум формам.
 
-Кроме польского, есть много других языков, которые имеют три и более форм множественного числа: например, русский, сербский, словацкий, чешский и т. д. Но не все они подчиняются одному и тому же правилу. Поэтому важно знать, сколько плюральных форм содержится в вашем языке и как их применять.
+Кроме польского, есть много других языков, которые имеют три и более форм множественного числа: например, русский, сербский, словацкий, чешский и т. д. Но не все они подчиняются одному и тому же правилу. That's why it's so important to know how many plurals your language has, and how to use them correctly.
 
 ## Где можно узнать о количестве форм множественного числа? {#where-to-learn}
 
@@ -92,7 +92,7 @@ sidebar_position: 4
 
 ### 4. Строки, разделённые вертикальной чертой {#4type}
 
-Это самый сложный тип строк AdGuard, который в основном используется в проекте `AdGuard Websites`.
+This is the most complicated type of AdGuard strings which is mostly used in the `AdGuard Websites` project.
 
 Обратите внимание на знак вертикальной черты между предложениями и плейсхолдер **%count%** в оригинальных фразах — это поможет вам определить фразы, в которых перевод требует использования форм множественного числа.
 

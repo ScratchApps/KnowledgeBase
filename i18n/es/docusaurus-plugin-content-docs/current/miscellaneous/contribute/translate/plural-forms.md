@@ -24,13 +24,13 @@ Dibujemos un pequeño paralelo entre el inglés y el polaco para una mejor compr
 
       La versión en inglés:                                                 Los equivalentes polacos:
     
-      1. forma: It takes one hour.                                     1. forma: Zajmuje a godzinę.
-      2. form: It takes two hours.                                    2. forma: Zajmuje a dwie godziny.
-      3. forma: It takes five hours.                                   3. forma: Zajmuje a pięć godzin.
+      1. form — It takes one hour.                                     1. form — Zajmuje to godzinę.
+      2. form — It takes two hours.                                    2. form — Zajmuje to dwie godziny.
+      3. form — It takes five hours.                                   3. form — Zajmuje to pięć godzin.
 
 Ahora está claro que el polaco *'godzinę'* (hora) tiene tres formas diferentes, mientras que la palabra inglesa cambia su forma con números solo dos veces.
 
-Además del polaco, hay muchos otros idiomas que tienen tres formas plurales y más, como el ruso, el serbio, el eslovaco, el checo, etc. Pero no todos obedecen a la misma regla. Por eso es tan importante saber cuántas formas plurales contiene tu idioma y cómo puedes aplicarlas.
+Además del polaco, hay muchos otros idiomas que tienen tres formas plurales y más, como el ruso, el serbio, el eslovaco, el checo, etc. Pero no todos obedecen a la misma regla. That's why it's so important to know how many plurals your language has, and how to use them correctly.
 
 ## ¿Dónde puedes aprender sobre el número de formas plurales? {#where-to-learn}
 
@@ -92,7 +92,7 @@ Está atento al traducir estas strings y aprobarlas. Si no tienes idea de lo que
 
 ### 4. Strings con plantillas separadas por el signo de la barra vertical {#4type}
 
-Este es el tipo más complicado de strings de AdGuard que se usa principalmente en el proyecto `AdGuard Websites`.
+This is the most complicated type of AdGuard strings which is mostly used in the `AdGuard Websites` project.
 
 Pay close attention to a vertical bar sign between the sentences and **%count%** placeholders in original phrases — this will help you identify phrases where translations require the use of plural forms.
 

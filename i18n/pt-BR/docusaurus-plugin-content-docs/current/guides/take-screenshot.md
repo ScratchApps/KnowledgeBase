@@ -1,5 +1,5 @@
 ---
-title: How to take a screenshot
+title: Como fazer uma captura de tela
 sidebar_position: 5
 ---
 
@@ -11,13 +11,13 @@ Screenshot é uma captura da tela do seu computador ou dispositivo móvel, que p
 
 A captura de tela em um dispositivo Android pode ser feita de várias maneiras, dependendo do modelo do dispositivo e do fabricante.
 
-Geralmente, você deve usar a seguinte combinação de botões para Android:
+Geralmente, a seguinte combinação de botões é usada no Android:
 
 - **Mantenha pressionados simultaneamente os botões *Diminuir volume* e *Power* por 1 a 2 segundos**
 
 Seu dispositivo Android irá capturar a tela inteira e salvá-la como uma foto. Então, você pode encontrar a captura de tela em um *Capturas de tela* na sua Galeria.
 
-Mas, como já foi dito, pode haver diferenças dependendo de um determinado dispositivo. Vejamos outras combinações possíveis:
+Mas pode haver diferenças dependendo do modelo do dispositivo. Vejamos outras combinações possíveis:
 
 - **Pressione simultaneamente *Home* e *Power* por 1–2 segundos;**
 - **Mantenha pressionados simultaneamente os botões *Voltar* e *Home***
@@ -30,7 +30,7 @@ Além disso, você sempre pode usar qualquer aplicativo especial para capturar a
 
 ### iOS {#ios}
 
-Qualquer dispositivo iOS (com exceção dos antigos) permite tirar uma captura de tela usando ferramentas padrão.
+Any iOS device (except very old ones) lets you take a screenshot using standard tools.
 
 Para fazer uma captura de tela em um dispositivo iOS, use a seguinte combinação:
 
@@ -44,13 +44,13 @@ Seu dispositivo Android irá capturar a tela inteira e salvá-la como uma foto. 
 
 ### Windows {#windows}
 
-- **Para fazer uma captura de tela no Windows, pressione o botão *PrtScn***
+- **To take a screenshot on Windows, press the *PrtScn* key**
 
 Em alguns notebooks, você deve segurar *Fn*, e então pressionar *PrtScn*.
 
-*Observe: O botão PrtScn (Print Screen) pode ser abreviado de forma diferente em vários teclados — PrntScrn, PrtScn, PrtScr ou PrtSc.*
+*Please note: The PrtScn (Print Screen) key may be abbreviated differently on different keyboards — PrntScrn, PrtScn, PrtScr or PrtSc.*
 
-O Windows captura a tela inteira e a copia para a área de transferência (invisível).
+Windows captures the entire screen and copies it to the clipboard.
 
 Para tirar uma captura de tela de uma janela ativa, use a seguinte combinação:
 
@@ -58,11 +58,11 @@ Para tirar uma captura de tela de uma janela ativa, use a seguinte combinação:
 
 Para tirar uma captura de tela de uma área específica, você deve usar a seguinte combinação:
 
-- ***Segure *Win* (o botão do Windows) e *Shift* e pressione ***S******
+- ***Hold down *Win* (the Windows key) and *Shift* and press ***S******
 
-Depois de tirar uma captura de tela, ela será salva na área de transferência. Na maioria dos casos, você poderá colá-lo em um documento que está editando no momento usando a combinação de botões *Ctrl + V*. Como alternativa, se você precisar salvar a captura de tela em um arquivo, abra o programa padrão **Paint** (ou qualquer outro aplicativo que possa trabalhar com imagens). Cole sua captura de tela usando a mesma combinação de botões ou clicando no botão Colar (geralmente no canto superior esquerdo da tela) e salve-a.
+Depois de tirar uma captura de tela, ela será salva na área de transferência. In most cases, you will be able to paste it into a document that you are currently editing by using the *Ctrl + V* shortcut. Como alternativa, se você precisar salvar a captura de tela em um arquivo, abra o programa padrão **Paint** (ou qualquer outro aplicativo que possa trabalhar com imagens). Paste your screenshot there using the same key combination or by clicking the Paste button (usually in the top left corner of the screen) and then save it.
 
-O Windows 8 e 10 permitem que você faça uma captura de tela muito rapidamente com uma combinação de *Win + PrtScn*. Assim que você pressionar esses botões, a captura de tela será salva automaticamente como um arquivo na pasta *Imagens* → *Capturas de tela*.
+O Windows 8 e 10 permitem que você faça uma captura de tela muito rapidamente com uma combinação de *Win + PrtScn*. As soon as you press these keys, the screenshot will be automatically saved as a file to your *Pictures* → *Screenshots Folder*.
 
 Há também um programa dedicado para tirar screenshots chamado *Snipping Tool* que você pode encontrar através do menu Iniciar entre os programas padrão do seu computador. A ferramenta de recorte permite capturar qualquer área da área de trabalho ou a tela inteira. Depois de fazer uma captura de tela usando este programa, você pode editar a imagem e salvá-la em qualquer pasta do seu computador.
 
@@ -70,19 +70,19 @@ Além disso, você também pode tentar usar diferentes aplicativos para tirar sc
 
 ### macOS {#mac}
 
-Para fazer uma captura de tela em um dispositivo iOS, use a seguinte combinação:
+To take a screenshot on Mac, use the following shortcut:
 
 - ***Pressione e segure ***⌘ Cmd + Shift + 3******
 
 Seu Mac irá capturar a tela inteira e salvá-la como um arquivo na área de trabalho.
 
-Para tirar uma captura de tela de uma janela ativa, use a seguinte combinação:
+To take a screenshot of an active window, use the following key combination:
 
-- **Pressione e segure *⌘ Cmd + Shift + 4 + barra de espaço*.  O ponteiro mudará para um ícone de câmera. Clique na janela para capturar. Pressione o botão Esc para cancelar a captura de tela**
+- **Pressione e segure *⌘ Cmd + Shift + 4 + barra de espaço*.  O ponteiro mudará para um ícone de câmera. Clique na janela para capturar. Press Esc to cancel taking a screenshot**
 
 Para tirar uma captura de tela de uma área específica, você deve usar a seguinte combinação:
 
-- ***Pressione e segure ***⌘ Cmd + Shift + 4******. Arraste a mira para selecionar a área necessária. Solte o mouse ou o trackpad para fazer uma captura de tela, pressione o botão Esc para cancelá-la.
+- ***Pressione e segure ***⌘ Cmd + Shift + 4******. Arraste a mira para selecionar a área necessária. Release your mouse or trackpad to take a screenshot, press Esc to cancel it.
 
 Para fazer uma captura de tela do *Touch Bar* (MacBook Pro), use a seguinte combinação:
 

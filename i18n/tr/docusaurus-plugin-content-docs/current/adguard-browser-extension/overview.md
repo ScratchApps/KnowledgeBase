@@ -125,7 +125,7 @@ Ayrıca, uygulanan kurallarla ilgili istatistikleri göndererek filtrelerin geli
 
 ## Uzantının ana menüsü {#main-menu}
 
-Uzantının ana sayfasına, tarayıcınızın araç çubuğundaki uzantı simgesine tıklayarak erişebilirsiniz.
+The extension's main page can be accessed by clicking the extension's icon on the toolbar of your browser.
 
 ![Ana menü *mobile_border](https://cdn.adtidy.org/content/Kb/ad_blocker/browser_extension/ad_blocker_browser_extension_main.png)
 

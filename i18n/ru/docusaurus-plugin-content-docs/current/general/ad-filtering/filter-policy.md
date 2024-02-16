@@ -24,7 +24,7 @@ sidebar_position: 6
 
 ## Рекламные фильтры
 
-В этой части описываются Базовый фильтр AdGuard, Фильтр мобильной рекламы и следующие языковые фильтры: русский, немецкий, голландский, испано-португальский, японский, турецкий, китайский и французский.
+This part describes the AdGuard Base filter, the Mobile Ads filter, and the following language-specific filters: Chinese, Dutch, French, German, Japanese, Russian, Spanish/Portuguese, and Turkish.
 
 **Что должны блокировать эти фильтры?**
 

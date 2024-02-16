@@ -5,39 +5,39 @@ sidebar_position: 1
 
 :::info
 
-这篇文章是关于 Safari 版的 AdGuard，它只能保护用户的 Safari 浏览器。 To protect your entire device, [download the AdGuard app](https://agrd.io/download-kb-adblock)
+这篇文章是关于 Safari 版的 AdGuard，用于保护用户的 Safari 浏览器。 如果需要保护整个设备，请前往[下载 AdGuard 应用程序](https://agrd.io/download-kb-adblock)
 
 :::
 
-AdGuard for Safari was designed to conform to Apple's restrictions for ad blocking browser extensions and is the most popular ad blocker for Safari. Although it can’t be compared to our desktop ad blocking apps, it's free and can protect you from ads, trackers, phishing, and malicious websites.
+Safari 版 AdGuard 的设计符合 Apple 公司对广告拦截浏览器扩展的限制，是 Safari 上最受欢迎的广告拦截器。 虽然 Safari 版 AdGuard 无法与我们的桌面广告拦截应用程序相比，但扩展是免费的，可以保护用户免受广告、跟踪器、网络钓鱼和恶意网站的侵害。
 
 ## 常规 {#general}
 
 ![General tab](https://cdn.adtidy.org/public/Adguard/Blog/AG_for_Safari_in-depth_review/General.png)
 
-The first tab is the General screen where you can set up basic things like notifications, update intervals, and launching AdGuard at system startup. You can also choose to display the AdGuard icon in the menu bar. There you can also turn on [content blockers](#contentblockers) to block ads, trackers, annoyances, etc.
+第一个选项卡是「常规」屏幕，用户可以设置通知、更新间隔和系统启动时启动 AdGuard 等基本事项。 用户还可以选择在菜单栏中显示 AdGuard 图标。 用户还可以启动「[内容拦截器](#contentblockers)」来拦截广告、跟踪器和其他骚扰等。
 
-## Filters {#filters}
+## 过滤器 {#filters}
 
 ![Filters tab](https://cdn.adtidy.org/public/Adguard/Blog/AG_for_Safari_in-depth_review/Filters.png)
 
-A filter is a list of rules written in a special syntax. Following these rules, content blockers can filter web traffic: block ads or requests to malicious websites.
+过滤器是用特殊语法编写的规则列表。 根据这些规则，内容拦截器可以过滤网络流量：拦截广告或对恶意网站的请求。
 
-Filters are combined into eight thematic categories: *Ad Blocking, Privacy, Social widgets, Annoyances, Security, Language-specific filters, Custom, and Other filters*.
+过滤器分为八个主题类别： *广告拦截、隐私、社交小工具、烦扰、安全、特定语言过滤器、自定义和其他过滤器*。
 
-Read more about [AdGuard filters](/general/ad-filtering/adguard-filters) or [ad filtering in general](/general/ad-filtering/how-ad-blocking-works).
+了解更多有关[AdGuard 过滤器](/general/ad-filtering/adguard-filters)或[一般广告过滤](/general/ad-filtering/how-ad-blocking-works)的信息。
 
-In the Filters tab, you can enable the whole category or separate filters. Changes in the Filters tab are reflected in the Content Blockers section (located in the General tab).
+在「过滤器」选项卡中，用户可以启用整个主题类别或单独的过滤器。 「过滤器」选项卡中的设置更改会影响「内容拦截器」部分（在「常规 」选项卡中）。
 
-## Content blockers {#contentblockers}
+## 内容拦截器 {#contentblockers}
 
 ![Content blockers tab](https://cdn.adtidy.org/public/Adguard/Blog/AG_for_Safari_in-depth_review/Contentblockers.png)
 
-A content blocker is a thematic cluster of filters. Privacy-related filters are included in the content blocker with the corresponding name — *AdGuard Privacy*.
+A content blocker is a thematic cluster of filters. 与隐私相关的过滤器包含在内容拦截器中，其相应名称为「*AdGuard 隐私*」。
 
-Content Blockers were designed for two reasons: to structure filters and to conform to Apple’s restrictions.
+设计内容拦截器有两个原因：结构过滤器和符合 Apple 公司的限制。
 
-[In 2019](https://adguard.com/en/blog/adguard-safari-1-5.html), Apple put limitations on ad blockers for Safari, allowing them to use only 50,000 filtering rules simultaneously. As this number was not enough for an ad blocker to provide a good filtering quality (AdGuard Base Filter alone has 30,000 filtering rules), we divided AdGuard for Safari into six content blockers each containing up to 50,000 rules.
+[2019 年](https://adguard.com/en/blog/adguard-safari-1-5.html)，Apple 对 Safari 的广告拦截器设置限制，只允许它们同时使用 5 万个过滤规则。 由于这个数量不足以让一个广告拦截器提供良好的过滤质量（仅 AdGuard 基础过滤器就有 30,000 个过滤规则），我们将 AdGuard Safari 版分成六个内容拦截器，每个拦截器包含多达 50,000 个规则。
 
 [In 2022](https://adguard.com/en/blog/adguard-for-safari-1-11.html), Apple increased the filtering rule limit for each content blocker to 150,000 rules applied simultaneously. Regarding AdGuard for Safari, up to 900,000 rules can be enabled for all six content blockers.
 

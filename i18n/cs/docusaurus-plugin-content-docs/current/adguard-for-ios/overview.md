@@ -129,7 +129,7 @@ Chcete-li zapnout *Pokročilou ochranu*, otevřete kartu *Ochrana* klepnutím na
 
 ### Kompatibilita s AdGuard VPN {#compatibility}
 
-Ve většině případů blokátor reklam a aplikace VPN nemohou spolupracovat, protože existují určitá systémová omezení. Přesto se nám podařilo najít řešení, jak spřátelit [AdGuard VPN](https://adguard-vpn.com/) a blokátor reklam AdGuard. Pro vaše pohodlí jsme do sekce *Ochrana* přidali položku *AdGuard VPN*, takže můžete snadno přepínat mezi dvěma aplikacemi.
+Ve většině případů blokátor reklam a aplikace VPN nemohou spolupracovat, protože existují určitá systémová omezení. Přesto se nám podařilo najít řešení, jak spřátelit [AdGuard VPN](https://adguard-vpn.com/) a blokátor reklam AdGuard. V sekci *Ochrana* můžete snadno přepínat mezi dvěma aplikacemi.
 
 ### Asistent {#assistant}
 
@@ -140,7 +140,7 @@ Asistent je nástroj, který vám pomůže spravovat filtrování v Safari pří
 Chcete-li jej zobrazit, postupujte takto: otevřete Safari a klepněte na symbol šipky v rámečku. Poté přejděte dolů na AdGuard/AdGuard Pro (v závislosti na aplikaci, kterou používáte) a klepnutím na něj zobrazte okno s několika možnostmi:
 
 1. **Povolit na této stránce.** Chcete-li přidat aktuální doménu do seznamu povolených, vypněte přepínač.
-2. **Blokovat prvek na této stránce.** Klepnutím na to přejdete do režimu "Blokovat prvek": vyberte libovolný prvek na stránce, upravte velikost klepnutím na "+" nebo "-", v případě potřeby zobrazte náhled a potvrďte klepnutím na ikonu zaškrtnutí. Vybraný prvek bude na stránce skryt a do uživatelských pravidel bude přidáno odpovídající pravidlo. Chcete-li změnu vrátit, odstraňte to nebo vypněte.
+2. **Blokovat prvek na této stránce.** Klepnutím na to přejdete do režimu "Blokovat prvek": vyberte libovolný prvek na stránce, upravte velikost klepnutím na "+" nebo "-", v případě potřeby zobrazte náhled a potvrďte klepnutím na ikonu zaškrtnutí. Vybraný prvek bude na stránce skryt a do uživatelských pravidel bude přidáno odpovídající pravidlo. Chcete-li změnu vrátit, odstraňte jej nebo vypněte.
 3. **Nahlásit problém na této stránce.** Otevře webový nástroj pro hlášení chyb, který vám pomůže odeslat hlášení našemu týmu podpory pomocí několika klepnutí. Použijte to, pokud jste si všimli nezablokované reklamy nebo nesprávného blokování na stránce.
 
 :::tip

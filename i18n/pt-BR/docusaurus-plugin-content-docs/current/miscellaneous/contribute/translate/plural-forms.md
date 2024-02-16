@@ -24,13 +24,13 @@ Vamos traçar um pequeno paralelo entre o inglês e o polonês para melhor compr
 
       A versão em inglês:                                                 Os equivalentes poloneses:
     
-      1. forma - It takes one hour.                                     1. forma - Zajmuje para godzinę.
-      2. forma - It takes two hours.                                    2. forma - Zajmuje para dwie godziny.
-      3. forma - It takes five hours.                                   3. forma - Zajmuje para pięć godzin.
+      1. form — It takes one hour.                                     1. form — Zajmuje to godzinę.
+      2. form — It takes two hours.                                    2. form — Zajmuje to dwie godziny.
+      3. form — It takes five hours.                                   3. form — Zajmuje to pięć godzin.
 
 Agora está claro que o polonês *'godzinę'* (hora) tem três formas diferentes, enquanto a palavra em inglês muda sua forma com determinados números apenas duas vezes.
 
-Com exceção do polonês, existem muitos outros idiomas que têm três formas plurais e mais, como russo, sérvio, eslovaco, tcheco etc. Mas nem todos obedecem à mesma regra. É por isso que é tão importante saber quantas formas plurais seu idioma contém e como você pode aplicá-las.
+Com exceção do polonês, existem muitos outros idiomas que têm três formas plurais e mais, como russo, sérvio, eslovaco, tcheco etc. Mas nem todos obedecem à mesma regra. That's why it's so important to know how many plurals your language has, and how to use them correctly.
 
 ## Onde você pode aprender sobre o número de formas plurais? {#where-to-learn}
 
@@ -92,7 +92,7 @@ Por favor, esteja atento ao traduzir essas strings e aprová-las. Se você não 
 
 ### 4. Strings com modelos separados pelo sinal de barra vertical {#4type}
 
-Este é o tipo mais complicado de strings do AdGuard, usado principalmente no projeto `AdGuard Websites`.
+This is the most complicated type of AdGuard strings which is mostly used in the `AdGuard Websites` project.
 
 Pay close attention to a vertical bar sign between the sentences and **%count%** placeholders in original phrases — this will help you identify phrases where translations require the use of plural forms.
 

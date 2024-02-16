@@ -24,13 +24,13 @@ Ziehen wir zum besseren Verständnis eine kleine Parallele zwischen Englisch und
 
       Die englische Version:                                                 Die polnischen Entsprechung:
     
-      1. Form — It takes one hour.                                     1. Form — Zajmuje to godzinę.
-      2. Form — It takes two hours.                                    2. Form — Zajmuje to dwie godziny.
-      3. Form — It takes five hours.                                   3. Form — Zajmuje to pięć godzin.
+      1. form — It takes one hour.                                     1. form — Zajmuje to godzinę.
+      2. form — It takes two hours.                                    2. form — Zajmuje to dwie godziny.
+      3. form — It takes five hours.                                   3. form — Zajmuje to pięć godzin.
 
 Nun ist klar, dass die polnische *'godzinę'* (Stunde) drei verschiedene Formen hat, während das englische Wort seine Form bei gegebenen Zahlen nur zweimal ändert.
 
-Außer Polnisch gibt es viele andere Sprachen, die drei Pluralformen und mehr haben, wie Russisch, Serbisch, Slowakisch, Tschechisch usw. Aber nicht alle halten sich an dieselbe Regel. Deshalb ist es so wichtig zu wissen, wie viele Pluralformen Ihre Sprache enthält und wie Sie diese anwenden können.
+Außer Polnisch gibt es viele andere Sprachen, die drei Pluralformen und mehr haben, wie Russisch, Serbisch, Slowakisch, Tschechisch usw. Aber nicht alle halten sich an dieselbe Regel. That's why it's so important to know how many plurals your language has, and how to use them correctly.
 
 ## Wo kann man etwas über die Anzahl der Pluralformen erfahren? {#where-to-learn}
 
@@ -92,7 +92,7 @@ Bitte seien Sie aufmerksam, wenn Sie diese Strings übersetzen und genehmigen. W
 
 ### 4. Strings mit Vorlagen, die durch das vertikale Balkenzeichen getrennt sind {#4type}
 
-Dies ist die komplizierteste Art von AdGuard-Strings, die am häufigsten in `AdGuard Websites`-Projekt verwendet wird.
+This is the most complicated type of AdGuard strings which is mostly used in the `AdGuard Websites` project.
 
 Pay close attention to a vertical bar sign between the sentences and **%count%** placeholders in original phrases — this will help you identify phrases where translations require the use of plural forms.
 

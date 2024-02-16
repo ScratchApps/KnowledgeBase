@@ -12,7 +12,7 @@ Při používání blokátorů reklam se můžete setkat s nesprávnou prací n�
 - Autoři jednoho z filtrů udělali při vytváření pravidla chybu;
 - Opakované vložení reklamy. Více informací o této metodě najdete na našem [blogu](https://adguard.com/en/blog/ad-reinsertion.html).
 
-Můžete nám pomoci vyplněním formuláře s příklady reklam, se kterými jste se setkali. K tomu použijte pokyny pro váš operační systém.
+You can help us by filling in a form with examples of ads you have encountered. K tomu použijte pokyny pro váš operační systém.
 
 ## Nahlásit webovou stránku {#report}
 
@@ -146,4 +146,4 @@ Například se setkáte s tím, že se vaše oblíbená webová stránka neotev�
 
 ### **Blokátory třetích stran**
 
-Některé prohlížeče a antivirové programy (například Yandex Browser, Kaspersky atd.) mají zabudované blokátory reklam. Mohou ovlivnit a způsobit problémy při provozu stránek. Pokud takové programy používáte, ujistěte se, že problém je na straně **AdGuardu**: vypněte filtrování **AdGuardem** a zkuste problém zopakovat. Pokud problém přetrvává, znamená to, že problém je způsoben jinou aplikací nebo prohlížečem. Pokud je problém způsoben **AdGuardem**, postupujte podle kroků popsaných v předchozích odstavcích.
+Některé prohlížeče a antivirové programy (například Yandex Browser, Kaspersky atd.) mají zabudované blokátory reklam. Mohou ovlivnit a způsobit problémy při provozu stránek. If you are using such programs, first make sure that the problem is caused by **AdGuard**: disable **AdGuard** filtering and try to reproduce the problem. Pokud problém přetrvává, znamená to, že problém je způsoben jinou aplikací nebo prohlížečem. Pokud je problém způsoben **AdGuardem**, postupujte podle kroků popsaných v předchozích odstavcích.

@@ -5,7 +5,7 @@ sidebar_position: 9
 
 :::info
 
-Dieser Artikel behandelt AdGuard für Android, einem multifunktionalen Werbeblocker, der Ihr Gerät auf Systemebene schützt. To see how it works, [download the AdGuard app](https://agrd.io/download-kb-adblock)
+Dieser Artikel behandelt AdGuard für Android, einem multifunktionalen Werbeblocker, der Ihr Gerät auf Systemebene schützt. Um zu sehen, wie es funktioniert, [laden Sie die AdGuard-App herunter](https://agrd.io/download-kb-adblock)
 
 :::
 
@@ -77,7 +77,7 @@ Now launch the active apps manager by swiping up from the bottom of the screen a
 
 ![Xiaomi *mobile_border](https://cdn.adtidy.org/content/kb/ad_blocker/android/solving_problems/background-work/xiaomi6.jpeg)
 
-Tap and hold it until a special menu pops up. Select a lock icon.
+Tap and hold it until a menu pops up. Select a lock icon.
 
 ![Xiaomi *mobile_border](https://cdn.adtidy.org/content/kb/ad_blocker/android/solving_problems/background-work/xiaomi7en.jpeg)
 
@@ -117,9 +117,9 @@ Please enable:
 1. Switch Power Saving Modes to "Off"
 1. Choose the following options: **Saving Power in The Background** → **Choose apps** → **AdGuard** → **Background Settings** → **No restrictions**
 
-#### App battery saver
+#### Energiesparmodus
 
-Set **Security** → **Battery** → **App Battery Saver** → **AdGuard** to **No restriction**
+Stellen Sie **Sicherheit** → **Akku** → **Energiesparmodus** → **AdGuard** auf **Keine Einschränkung**
 
 #### App pinning
 
@@ -135,7 +135,7 @@ To set up AdGuard's background work for Xiaomi devices you should pay attention 
 
 - Go to **Battery**
 
-- Select the **battery saver** app
+- Wählen Sie eine App zum **Batteriesparen**
 
 - Find and select **AdGuard**
 
@@ -311,7 +311,7 @@ If AdGuard keeps getting killed, also try running
 
 - **Phone settings** → **Advanced Settings** → **Battery manager** → **Power plan** set to **Performance**;
 - **Phone Settings** → **Advanced Settings** → **Battery Manager** → **Protected apps** — set AdGuard as **Protected**;
-- **Phone Settings** → **Apps** → **Your app** → **Battery** → **Power-intensive prompt** `[uncheck]` and **Keep running after screen off** `[check]`;
+- **Telefoneinstellungen** → **Apps** → **Ihre App** → **Akku** → **Energieintensive Anforderung** `[deaktivieren]` und **Nach Ausschalten des Bildschirms weiterlaufen lassen** `[aktivieren]`;
 - **Phone settings** → **Apps** → **Advanced (At the bottom)** → **Ignore optimizations** → Press Allowed → **All apps** → Find AdGuard on the list and set to **Allow**.
 
 #### Huawei P9 Plus
@@ -355,7 +355,7 @@ Meizu has almost the same approach to the background process limitations as Huaw
 
 ## Nokia
 
-Nokia devices running Android 9+ have **The Evenwell Power saver** disabled, which was the main culprit for killing bacground processes. If AdGuard still gets killed on your Nokia phone, check out the [legacy instruction](https://dontkillmyapp.com/hmd-global).
+Nokia devices running Android 9+ have **The Evenwell Power saver** disabled, which was the main culprit for killing background processes. If AdGuard still gets killed on your Nokia phone, check out the [legacy instruction](https://dontkillmyapp.com/hmd-global).
 
 ### Nokia 1 (Android Go)
 
@@ -367,7 +367,7 @@ Nokia devices running Android 9+ have **The Evenwell Power saver** disabled, whi
 
 1. Enable **USB debugging** within Developer options on your phone;
 
-1. Uninstall the **com.evenwell.emm** package via the following adb commands:
+1. Uninstall the **com.evenwell.emm** package via the following ADB commands:
 
     `adb shell` `pm uninstall --user 0 com.evenwell.emm`
 
@@ -423,7 +423,7 @@ An alternative, more permanent solution for more tech-savvy users:
 
 1. Enable **USB debugging** within Developer options on your phone;
 
-1. Uninstall the **com.evenwell.powersaving.g3** package via the following adb commands:
+1. Uninstall the **com.evenwell.powersaving.g3** package via the following ADB commands:
 
     `adb shell` `pm uninstall --user 0 com.evenwell.powersaving.g3`
 

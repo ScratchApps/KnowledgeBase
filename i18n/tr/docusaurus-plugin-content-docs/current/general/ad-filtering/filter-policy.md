@@ -24,7 +24,7 @@ Bunlar, tüm filtrelerdeki kurallar için eşit derecede geçerlidir.
 
 ## Tüm filtreler
 
-Bu bölümde AdGuard Temel filtresi, Mobil Reklam filtresi ve şu dile özgü filtreler açıklanmaktadır: Rusça, Almanca, Felemenkçe, İspanyolca/Portekizce, Japonca, Türkçe, Çince ve Fransızca.
+Bu bölümde AdGuard Temel filtresi, Mobil Reklam filtresi ve aşağıdaki dile özgü filtreler açıklanmaktadır: Çince, Felemenkçe, Fransızca, Almanca, Japonca, Rusça, İspanyolca/Portekizce ve Türkçe.
 
 **Bu filtreler neyi engelleyecek?**
 

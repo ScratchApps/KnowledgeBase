@@ -24,7 +24,7 @@ Platí stejně pro pravidla ve všech filtrech.
 
 ## Filtry reklam
 
-Tato část popisuje základní filtr AdGuardu, filtr mobilních reklam a následující jazykově specifické filtry: Ruský, německý, nizozemský, španělský/portugalský, japonský, turecký, čínský a francouzský jazyk.
+Tato část popisuje základní filtr AdGuardu, filtr mobilních reklam a následující jazykově specifické filtry: čínský, holandský, francouzký, německý, japonský, ruský, španělský/portugalský a turecký.
 
 **Co mají tyto filtry blokovat?**
 
